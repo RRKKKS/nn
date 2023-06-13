@@ -1,6 +1,6 @@
 
 
-* 🇸🇦 ┇ yousef labban*
+*  ┇ venom*
 
 git clone https://github.com/Yosef-lbban/nn ; cd nn ; chmod +x * ;screen ./ins.sh run
 
